@@ -1,0 +1,59 @@
+{
+  "_from": "git+https://github.com/rodgh522/cordova-plugin-kakao-sdk.git",
+  "_id": "cordova-plugin-kakao-sdk@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-kakao-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/rodgh522/cordova-plugin-kakao-sdk.git",
+    "rawSpec": "https://github.com/rodgh522/cordova-plugin-kakao-sdk.git",
+    "saveSpec": "git+https://github.com/rodgh522/cordova-plugin-kakao-sdk.git",
+    "fetchSpec": "https://github.com/rodgh522/cordova-plugin-kakao-sdk.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/rodgh522/cordova-plugin-kakao-sdk.git",
+  "_spec": "https://github.com/rodgh522/cordova-plugin-kakao-sdk.git",
+  "_where": "D:\\ionic\\demo3",
+  "author": {
+    "name": "rodgh522"
+  },
+  "bugs": {
+    "url": "https://github.com/rodgh522/cordova-plugin-kakao-sdk/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-kakao-sdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Kakao Cordova SDK Plugin",
+  "homepage": "https://github.com/rodgh522/cordova-plugin-kakao-sdk#readme",
+  "id": "cordova-plugin-kakao-sdk",
+  "keywords": [
+    "cordova",
+    "kakao",
+    "kakaotalk",
+    "login",
+    "kakao-sdk",
+    "kakaoaccount",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-kakao-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodgh522/cordova-plugin-kakao-sdk.git"
+  },
+  "version": "1.0.0"
+}
