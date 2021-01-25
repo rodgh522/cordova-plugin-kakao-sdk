@@ -1,0 +1,2 @@
+Cordova-plugin-kakao-sdk
+
