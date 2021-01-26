@@ -2,14 +2,9 @@ var exec = require('cordova/exec');
 var AuthConstant = require('./AuthConstant');
 
 var KakaoCordovaSDK = {
-  login: function(loginOptions, successCallback, errorCallback) {
+  login: function(successCallback, errorCallback) {
 		
-		if(loginOptions == null || !loginOptions.authTypes){
-			loginOptions = {
-        'authTypes':[]
-      };
-		}
-    exec(successCallback, errorCallback, 'KakaoCordovaSDK', 'login', [loginOptions]);
+		exec(successCallback, errorCallback, 'KakaoCordovaSDK', 'login', []);
 	},
 	
   logout: function(successCallback, errorCallback) {
